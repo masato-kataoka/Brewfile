@@ -81,11 +81,11 @@ cask google-chrome
 cask gyazo
 cask iterm2
 cask kindle
-cask pycharm-ce
-cask skype
-cask sublime-text
-cask visual-studio-code
-cask xquartz
+cask onyx
+cask sequel-pro
+cask slack
+cask thunderbird
+cask xld
 
 tap argon/mas
 
@@ -102,11 +102,12 @@ cask freemind
 cask google-earth
 cask ifunbox
 cask java
-cask onyx
-cask sequel-pro
-cask slack
-cask thunderbird
-cask xld
+cask mysqlworkbench
+cask pycharm-ce
+cask skype
+cask sublime-text
+cask visual-studio-code
+cask xquartz
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
