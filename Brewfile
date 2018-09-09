@@ -76,8 +76,9 @@ tap homebrew/cask-versions
 tap homebrew/cask
 cask atom
 cask cyberduck
-cask firefox
-cask gimp
+cask evernote
+cask freemind
+cask google-chrome
 cask gyazo
 cask iterm2
 cask kindle
@@ -98,8 +99,8 @@ brew ricty
 # Other Cask applications
 cask blender
 cask drawio
-cask freemind
-cask google-chrome
+cask firefox
+cask gimp
 cask google-earth
 cask ifunbox
 cask java
