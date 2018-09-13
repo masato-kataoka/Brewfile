@@ -52,6 +52,7 @@ brew openssl@1.1
 brew p11-kit
 brew pango
 brew pcre
+brew pcre2
 brew phantomjs
 brew pixman
 brew pkg-config
