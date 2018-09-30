@@ -18,6 +18,7 @@ brew gdbm
 brew geoip
 brew gettext
 brew git
+brew git-secrets
 brew glib
 brew gmp
 brew gnutls
@@ -83,11 +84,11 @@ cask google-chrome
 cask gyazo
 cask iterm2
 cask kindle
-cask onyx
-cask sequel-pro
-cask slack
-cask thunderbird
-cask xld
+cask pycharm-ce
+cask skype
+cask sublime-text
+cask visual-studio-code
+cask xquartz
 
 tap argon/mas
 
@@ -106,11 +107,10 @@ cask google-earth
 cask ifunbox
 cask java
 cask mysqlworkbench
-cask pycharm-ce
-cask skype
-cask sublime-text
-cask visual-studio-code
-cask xquartz
+cask sequel-pro
+cask slack
+cask thunderbird
+cask xld
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
