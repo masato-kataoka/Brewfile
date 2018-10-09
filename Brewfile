@@ -54,7 +54,6 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
-brew phantomjs
 brew pixman
 brew pkg-config
 brew pyenv
@@ -84,10 +83,11 @@ cask google-chrome
 cask gyazo
 cask iterm2
 cask kindle
-cask sequel-pro
-cask slack
-cask thunderbird
-cask xld
+cask pycharm-ce
+cask skype
+cask sublime-text
+cask visual-studio-code
+cask xquartz
 
 tap argon/mas
 
@@ -105,11 +105,11 @@ cask gimp
 cask google-earth
 cask ifunbox
 cask java
-cask pycharm-ce
-cask skype
-cask sublime-text
-cask visual-studio-code
-cask xquartz
+cask phantomjs
+cask sequel-pro
+cask slack
+cask thunderbird
+cask xld
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
@@ -120,7 +120,7 @@ appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (8.2)
 appstore 539883307 LINE (5.10.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 540348655 Monosnap (3.5.1)
+appstore 540348655 Monosnap (3.5.2)
 appstore 409203825 Numbers (5.2)
 appstore 409201541 Pages (7.2)
 appstore 704088911 TEPRA SMA3 (1.14)
