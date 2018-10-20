@@ -42,12 +42,14 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libyaml
+brew little-cms2
 brew makedepend
 brew mas
 brew mysql@5.6
 brew nettle
 brew node
 brew oniguruma
+brew openjpeg
 brew openssl
 brew openssl@1.1
 brew p11-kit
@@ -69,6 +71,7 @@ brew sqlite
 brew tmux
 brew tree
 brew utf8proc
+brew webp
 brew xz
 brew yarn
 
@@ -76,18 +79,19 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask atom
-cask cyberduck
-cask evernote
-cask freemind
-cask google-chrome
+cask clipy
+cask drawio
+cask firefox
+cask gimp
 cask gyazo
 cask iterm2
 cask kindle
 cask postman
 cask sequel-pro
-cask slack
-cask thunderbird
-cask xld
+cask skype
+cask sublime-text
+cask visual-studio-code
+cask xquartz
 
 tap argon/mas
 
@@ -99,18 +103,19 @@ brew ricty
 
 # Other Cask applications
 cask blender
-cask drawio
-cask firefox
-cask gimp
+cask cyberduck
+cask evernote
+cask freemind
+cask google-chrome
 cask google-earth
 cask ifunbox
 cask java
 cask phantomjs
 cask pycharm-ce
-cask skype
-cask sublime-text
-cask visual-studio-code
-cask xquartz
+cask skitch
+cask slack
+cask thunderbird
+cask xld
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
