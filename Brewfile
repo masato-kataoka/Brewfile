@@ -68,6 +68,7 @@ brew readline
 brew redis
 brew ruby-build
 brew sqlite
+brew sshfs
 brew tmux
 brew trash
 brew tree
@@ -87,12 +88,13 @@ cask gimp
 cask gyazo
 cask iterm2
 cask journey
-cask phantomjs
-cask pycharm-ce
-cask skitch
-cask slack
-cask thunderbird
-cask xld
+cask osxfuse
+cask postman
+cask sequel-pro
+cask skype
+cask sublime-text
+cask visual-studio-code
+cask xquartz
 
 tap argon/mas
 
@@ -112,12 +114,12 @@ cask google-earth
 cask ifunbox
 cask java
 cask kindle
-cask postman
-cask sequel-pro
-cask skype
-cask sublime-text
-cask visual-studio-code
-cask xquartz
+cask phantomjs
+cask pycharm-ce
+cask skitch
+cask slack
+cask thunderbird
+cask xld
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
