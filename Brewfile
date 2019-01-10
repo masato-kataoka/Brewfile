@@ -93,8 +93,8 @@ cask postman
 cask sequel-pro
 cask skype
 cask sublime-text
-cask visual-studio-code
-cask xquartz
+cask thunderbird
+cask xld
 
 tap argon/mas
 
@@ -118,8 +118,9 @@ cask phantomjs
 cask pycharm-ce
 cask skitch
 cask slack
-cask thunderbird
-cask xld
+cask teamsql
+cask visual-studio-code
+cask xquartz
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
@@ -128,7 +129,7 @@ appstore 408981434 iMovie (10.1.10)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.12.0)
+appstore 539883307 LINE (5.12.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 540348655 Monosnap (3.5.4)
 appstore 409203825 Numbers (5.3)
