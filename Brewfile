@@ -17,6 +17,7 @@ brew fribidi
 brew gdbm
 brew geoip
 brew gettext
+brew giflib
 brew git
 brew git-secrets
 brew glib
@@ -37,9 +38,11 @@ brew libgcrypt
 brew libgpg-error
 brew libidn
 brew libpng
+brew libspiro
 brew libtasn1
 brew libtiff
 brew libtool
+brew libuninameslist
 brew libunistring
 brew libyaml
 brew little-cms2
