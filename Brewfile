@@ -10,6 +10,7 @@ brew cairo
 brew cmake
 brew curl
 brew dbus
+brew embulk
 brew fontconfig
 brew fontforge
 brew freetype
@@ -81,6 +82,7 @@ brew xz
 brew yarn
 
 tap homebrew/cask-versions
+cask java8
 
 tap homebrew/cask
 cask atom
