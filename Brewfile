@@ -10,6 +10,7 @@ brew cairo
 brew cmake
 brew curl
 brew dbus
+brew docker
 brew embulk
 brew fontconfig
 brew fontforge
@@ -87,9 +88,10 @@ cask java8
 tap homebrew/cask
 cask atom
 cask clipy
-cask drawio
-cask firefox
-cask gimp
+cask docker
+cask evernote
+cask freemind
+cask google-chrome
 cask gyazo
 cask iterm2
 cask journey
@@ -114,9 +116,9 @@ brew ricty
 # Other Cask applications
 cask blender
 cask cyberduck
-cask evernote
-cask freemind
-cask google-chrome
+cask drawio
+cask firefox
+cask gimp
 cask google-earth
 cask ifunbox
 cask java
