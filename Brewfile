@@ -105,6 +105,16 @@ cask xld
 
 tap argon/mas
 
+tap caskroom/cask
+cask blender
+cask drawio
+cask gimp
+cask ifunbox
+cask kindle
+cask pycharm-ce
+cask slack
+cask visual-studio-code
+
 tap caskroom/versions
 
 tap rcmdnk/file
@@ -114,21 +124,13 @@ tap sanemat/font
 brew ricty
 
 # Other Cask applications
-cask blender
 cask cyberduck
-cask drawio
 cask firefox
-cask gimp
 cask google-earth
-cask ifunbox
 cask java
-cask kindle
 cask phantomjs
-cask pycharm-ce
 cask skitch
-cask slack
 cask teamsql
-cask visual-studio-code
 cask xquartz
 
 # App Store applications
