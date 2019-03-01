@@ -135,6 +135,7 @@ cask xquartz
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
+appstore 1123795278 Civ6 (1.2.0)
 appstore 682658836 GarageBand (10.3.2)
 appstore 408981434 iMovie (10.1.10)
 appstore 478844335 Janetter (4.4.0)
