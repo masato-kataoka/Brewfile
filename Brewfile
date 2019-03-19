@@ -84,6 +84,7 @@ brew yarn
 
 tap homebrew/cask-versions
 cask java8
+cask sequel-pro-nightly
 
 tap homebrew/cask
 cask atom
