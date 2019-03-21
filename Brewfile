@@ -98,11 +98,11 @@ cask iterm2
 cask journey
 cask osxfuse
 cask postman
-cask sequel-pro
-cask skype
-cask sublime-text
-cask thunderbird
-cask xld
+cask skitch
+cask slack
+cask teamsql
+cask visual-studio-code
+cask xquartz
 
 tap argon/mas
 
@@ -113,8 +113,8 @@ cask gimp
 cask ifunbox
 cask kindle
 cask pycharm-ce
-cask slack
-cask visual-studio-code
+cask sublime-text
+cask xld
 
 tap caskroom/versions
 
@@ -130,9 +130,8 @@ cask firefox
 cask google-earth
 cask java
 cask phantomjs
-cask skitch
-cask teamsql
-cask xquartz
+cask skype
+cask thunderbird
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
