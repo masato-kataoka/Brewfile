@@ -84,9 +84,9 @@ brew yarn
 tap homebrew/cask
 cask atom
 cask cyberduck
-cask evernote
-cask freemind
-cask google-chrome
+cask drawio
+cask firefox
+cask gimp
 cask gyazo
 cask iterm2
 cask journey
@@ -108,9 +108,10 @@ brew ricty
 
 # Other Cask applications
 cask clipy
-cask drawio
-cask firefox
-cask gimp
+cask docker
+cask evernote
+cask freemind
+cask google-chrome
 cask google-earth
 cask ifunbox
 cask java
