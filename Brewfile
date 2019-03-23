@@ -81,14 +81,9 @@ brew webp
 brew xz
 brew yarn
 
-tap homebrew/cask-versions
-cask java8
-cask sequel-pro-nightly
-
 tap homebrew/cask
 cask atom
-cask clipy
-cask docker
+cask cyberduck
 cask evernote
 cask freemind
 cask google-chrome
@@ -105,18 +100,6 @@ cask xquartz
 
 tap argon/mas
 
-tap caskroom/cask
-cask blender
-cask drawio
-cask gimp
-cask ifunbox
-cask kindle
-cask pycharm-ce
-cask sublime-text
-cask xld
-
-tap caskroom/versions
-
 tap rcmdnk/file
 brew brew-file
 
@@ -124,13 +107,22 @@ tap sanemat/font
 brew ricty
 
 # Other Cask applications
-cask cyberduck
+cask clipy
+cask drawio
 cask firefox
+cask gimp
 cask google-earth
+cask ifunbox
 cask java
+cask java8
+cask kindle
 cask phantomjs
+cask pycharm-ce
+cask sequel-pro-nightly
 cask skype
+cask sublime-text
 cask thunderbird
+cask xld
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
