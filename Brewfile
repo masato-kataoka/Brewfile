@@ -86,17 +86,17 @@ cask atom
 cask cyberduck
 cask drawio
 cask firefox
-cask gimp
-cask gyazo
-cask iterm2
+cask github
+cask google-japanese-ime
+cask ifunbox
+cask java
 cask journey
 cask osxfuse
 cask postman
 cask skitch
 cask slack
-cask teamsql
-cask visual-studio-code
-cask xquartz
+cask thunderbird
+cask xld
 
 tap argon/mas
 
@@ -112,9 +112,8 @@ cask docker
 cask evernote
 cask freemind
 cask google-chrome
-cask google-earth
-cask ifunbox
-cask java
+cask gyazo
+cask iterm2
 cask java8
 cask kindle
 cask phantomjs
@@ -122,8 +121,8 @@ cask pycharm-ce
 cask sequel-pro-nightly
 cask skype
 cask sublime-text
-cask thunderbird
-cask xld
+cask visual-studio-code
+cask xquartz
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
