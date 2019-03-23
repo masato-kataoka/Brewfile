@@ -10,7 +10,6 @@ brew cairo
 brew cmake
 brew curl
 brew dbus
-brew docker
 brew embulk
 brew fontconfig
 brew fontforge
