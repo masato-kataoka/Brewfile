@@ -88,8 +88,7 @@ cask drawio
 cask firefox
 cask github
 cask google-japanese-ime
-cask ifunbox
-cask java
+cask iterm2
 cask journey
 cask osxfuse
 cask postman
@@ -113,7 +112,7 @@ cask evernote
 cask freemind
 cask google-chrome
 cask gyazo
-cask iterm2
+cask java
 cask java8
 cask kindle
 cask phantomjs
