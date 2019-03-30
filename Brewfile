@@ -76,6 +76,7 @@ brew sshfs
 brew tmux
 brew trash
 brew tree
+brew unbound
 brew utf8proc
 brew webp
 brew xz
@@ -130,11 +131,11 @@ appstore 682658836 GarageBand (10.3.2)
 appstore 408981434 iMovie (10.1.11)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
-appstore 409183694 Keynote (8.3)
+appstore 409183694 Keynote (9.0)
 appstore 539883307 LINE (5.15.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 540348655 Monosnap (3.5.7)
-appstore 409203825 Numbers (5.3)
-appstore 409201541 Pages (7.3)
+appstore 409203825 Numbers (6.0)
+appstore 409201541 Pages (8.0)
 appstore 704088911 TEPRA SMA3 (1.14)
 appstore 414298354 ToyViewer (5.6.0)
