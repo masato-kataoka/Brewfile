@@ -97,6 +97,7 @@ cask skitch
 cask slack
 cask thunderbird
 cask xld
+cask zoom
 
 tap argon/mas
 
@@ -125,17 +126,17 @@ cask visual-studio-code
 cask xquartz
 
 # App Store applications
-appstore 704088911  (1.14)
-appstore 1123795278  (1.2.0)
-appstore 408981434  (10.1.11)
-appstore 682658836  (10.3.2)
-appstore 540348655  (3.5.7)
-appstore 478844335  (4.4.0)
-appstore 409183694  (5.1.1)
-appstore 539883307  (5.15.0)
-appstore 414298354  (5.6.0)
-appstore 409203825  (6.0)
-appstore 443987910  (6.8.8)
-appstore 409201541  (8.0)
-appstore 715768417  (8.0.30030)
-appstore 409183694  (9.0)
+appstore 443987910 com.agilebits.onepassword-osx (6.8.8)
+appstore 682658836 com.apple.garageband10 (10.3.2)
+appstore 408981434 com.apple.iMovieApp (10.1.11)
+appstore 409183694 com.apple.iWork.Keynote (5.1.1)
+appstore 409183694 com.apple.iWork.Keynote (9.0)
+appstore 409203825 com.apple.iWork.Numbers (6.0)
+appstore 409201541 com.apple.iWork.Pages (8.0)
+appstore 1123795278 com.aspyr.civ6.appstore (1.2.0)
+appstore 715768417 com.microsoft.rdc.mac (8.0.30030)
+appstore 540348655 com.monosnap.monosnap (3.5.7)
+appstore 704088911 jp.co.kingjim.SMA3 (1.14)
+appstore 539883307 jp.naver.line.mac (5.15.0)
+appstore 414298354 jp.ogihara.toyviewer (5.6.0)
+appstore 478844335 net.janesoft.janetter (4.4.0)
