@@ -50,6 +50,7 @@ brew little-cms2
 brew makedepend
 brew mas
 brew mysql@5.6
+brew ncurses
 brew nettle
 brew node
 brew oniguruma
@@ -97,7 +98,7 @@ cask skitch
 cask slack
 cask thunderbird
 cask xld
-cask zoom
+cask zoomus
 
 tap argon/mas
 
