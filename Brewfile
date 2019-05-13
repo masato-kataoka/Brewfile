@@ -92,8 +92,9 @@ cask github
 cask google-japanese-ime
 cask iterm2
 cask journey
-cask osxfuse
-cask postman
+cask kitematic
+cask phantomjs
+cask pycharm-ce
 cask skitch
 cask slack
 cask thunderbird
@@ -118,8 +119,8 @@ cask gyazo
 cask java
 cask java8
 cask kindle
-cask phantomjs
-cask pycharm-ce
+cask osxfuse
+cask postman
 cask sequel-pro-nightly
 cask skype
 cask sublime-text
