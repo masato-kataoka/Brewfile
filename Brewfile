@@ -130,7 +130,7 @@ cask xquartz
 # App Store applications
 appstore 443987910 com.agilebits.onepassword-osx (6.8.8)
 appstore 682658836 com.apple.garageband10 (10.3.2)
-appstore 408981434 com.apple.iMovieApp (10.1.11)
+appstore 408981434 com.apple.iMovieApp (10.1.12)
 appstore 409183694 com.apple.iWork.Keynote (5.1.1)
 appstore 409183694 com.apple.iWork.Keynote (9.0.2)
 appstore 409203825 com.apple.iWork.Numbers (6.0)
