@@ -47,6 +47,7 @@ brew libuninameslist
 brew libunistring
 brew libyaml
 brew little-cms2
+brew lzo
 brew makedepend
 brew mas
 brew mysql@5.6
