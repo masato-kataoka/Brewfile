@@ -38,6 +38,7 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libidn
+brew libidn2
 brew libpng
 brew libspiro
 brew libtasn1
@@ -50,9 +51,11 @@ brew little-cms2
 brew lzo
 brew makedepend
 brew mas
+brew meson
 brew mysql@5.6
 brew ncurses
 brew nettle
+brew ninja
 brew node
 brew oniguruma
 brew openjpeg
