@@ -87,6 +87,9 @@ brew webp
 brew xz
 brew yarn
 
+tap homebrew/cask-versions
+cask sequel-pro-nightly
+
 tap homebrew/cask
 cask atom
 cask cyberduck
@@ -99,11 +102,10 @@ cask journey
 cask kitematic
 cask phantomjs
 cask pycharm-ce
-cask skitch
-cask slack
-cask thunderbird
-cask xld
-cask zoomus
+cask skype
+cask sublime-text
+cask visual-studio-code
+cask xquartz
 
 tap argon/mas
 
@@ -125,11 +127,11 @@ cask java8
 cask kindle
 cask osxfuse
 cask postman
-cask sequel-pro-nightly
-cask skype
-cask sublime-text
-cask visual-studio-code
-cask xquartz
+cask skitch
+cask slack
+cask thunderbird
+cask xld
+cask zoomus
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
