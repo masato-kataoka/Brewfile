@@ -59,7 +59,6 @@ brew ninja
 brew node
 brew oniguruma
 brew openjpeg
-brew openssl
 brew openssl@1.1
 brew p11-kit
 brew pango
