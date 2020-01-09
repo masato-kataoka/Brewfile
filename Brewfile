@@ -71,6 +71,7 @@ brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew python
 brew python@2
+brew python@3.8
 brew rbenv
 brew readline
 brew redis
