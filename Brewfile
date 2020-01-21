@@ -92,20 +92,35 @@ cask sequel-pro-nightly
 
 tap homebrew/cask
 cask atom
+cask clipy
 cask cyberduck
+cask docker
 cask drawio
+cask evernote
 cask firefox
+cask freemind
 cask github
+cask google-chrome
 cask google-japanese-ime
+cask gyazo
 cask iterm2
+cask java
 cask journey
+cask kindle
 cask kitematic
+cask osxfuse
 cask phantomjs
+cask postman
 cask pycharm-ce
+cask skitch
 cask skype
+cask slack
 cask sublime-text
+cask thunderbird
 cask visual-studio-code
+cask xld
 cask xquartz
+cask zoomus
 
 tap argon/mas
 
@@ -116,22 +131,7 @@ tap sanemat/font
 brew ricty
 
 # Other Cask applications
-cask clipy
-cask docker
-cask evernote
-cask freemind
-cask google-chrome
-cask gyazo
-cask java
 cask java8
-cask kindle
-cask osxfuse
-cask postman
-cask skitch
-cask slack
-cask thunderbird
-cask xld
-cask zoomus
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
