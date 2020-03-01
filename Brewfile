@@ -90,7 +90,6 @@ tap homebrew/cask-versions
 cask sequel-pro-nightly
 
 tap homebrew/cask
-cask atom
 cask clipy
 cask cyberduck
 cask docker
