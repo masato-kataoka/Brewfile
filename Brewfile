@@ -5,6 +5,7 @@ tap homebrew/core
 brew ansible
 brew autoconf
 brew awscli
+brew bdw-gc
 brew c-ares
 brew cairo
 brew cmake
@@ -18,6 +19,7 @@ brew fribidi
 brew gdbm
 brew geoip
 brew gettext
+brew ghostscript
 brew giflib
 brew git
 brew git-secrets
@@ -27,6 +29,7 @@ brew gnutls
 brew go
 brew gobject-introspection
 brew graphite2
+brew guile
 brew harfbuzz
 brew icu4c
 brew imagemagick@6
@@ -58,6 +61,7 @@ brew nettle
 brew ninja
 brew node
 brew oniguruma
+brew openjdk@8
 brew openjpeg
 brew openssl@1.1
 brew p11-kit
@@ -69,8 +73,8 @@ brew pkg-config
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
-brew python
 brew python@3.8
+brew python@3.9
 brew rbenv
 brew readline
 brew redis
@@ -102,7 +106,6 @@ cask google-chrome
 cask google-japanese-ime
 cask gyazo
 cask iterm2
-cask java
 cask journey
 cask kindle
 cask kitematic
@@ -132,19 +135,20 @@ brew ricty
 brew python@2
 
 # Other Cask applications
+cask java
 cask java8
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
-appstore 682658836 GarageBand (10.3.4)
+appstore 682658836 GarageBand (10.3.5)
 appstore 408981434 iMovie (10.1.14)
 appstore 478844335 Janetter for Twitter (4.4.0)
-appstore 409183694 Keynote (10.0)
+appstore 409183694 Keynote (10.1)
 appstore 409183694 Keynote (5.1.1)
-appstore 539883307 LINE (6.0.3)
+appstore 539883307 LINE (6.4.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 540348655 Monosnap (3.6.7)
-appstore 409203825 Numbers (10.0)
-appstore 409201541 Pages (10.0)
+appstore 540348655 Monosnap (3.6.20)
+appstore 409203825 Numbers (10.1)
+appstore 409201541 Pages (10.1)
 appstore 704088911 TEPRA SMA3 (1.15)
 appstore 414298354 ToyViewer (5.6.0)
